@@ -1,7 +1,7 @@
 background(0);
 var x=10;y=-10;
 while(y<height){
-	fill(255);
+  fill(255);
   y=y+20;
   while(x<width){
     ellipse(x,y,10,10);
